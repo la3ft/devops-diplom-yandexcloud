@@ -1,3 +1,7 @@
+# Готовый репозиторий в gitlab:
+
+https://gitlab.com/laft.rast/netology-graduation/
+
 # Дипломный практикум в Yandex.Cloud
   * [Цели:](#цели)
   * [Этапы выполнения:](#этапы-выполнения)
